@@ -33,8 +33,14 @@ I rewrote all of the company's existing codebase into **AMD** modularly modular 
 I then build the very first version of continuous intergation testign platform for the javascript code usign **Testswarm, QUnit, Sinon.js**
 and some code i built to help with the asyncronous nature of the testing environment.
 
-I had some projects as a freelancer as well which led me to use some other tools as well.
-Some of them are the **pjax** plugin, the PHP framework **Laravel** and the **jQuery Mobile** framework in conjuction with the **Cordova** platform to create a mobile application.
+Going on forward i took a turn back to plain old javascript which fortunately enough turned into **ES6/7**. I started writing next gen javascript with the help of **Babel** and i started to work with **browserify** to handle the bundling and transformations. All of this while delving into the fantastic world of **backbone.js** and **Marionette**. Finally i landed on **React/Redux** world, and subsequently **JSX**, enjoying the benefits of unidirectional data flow.
+
+My future plans involve exploring **reactive programming**, finally creating some robust solutions on the server with **node.js** and trying to create a write once - deploy everywhere project using **React** and **React Native**.
+
+I have had plenty of projects as a freelancer which led me to use some other tools as well.
+Some of them are the **pjax** plugin, the PHP framework **Laravel** and 
+the **Cordova**/**Phonegap** platform to create some mobile applications.
+For that i also used the **jQuery Mobile** framework as well as a mix of **Framework7** with **Marionette**.
 
 I use **Git** as my version controll software.
 
@@ -44,6 +50,8 @@ OSS
 * [Selectorablium.js][1]
 * [Analytics.js][2]
 * [Karma-fixture][3]
+* [simple-benchmarkjs-runner][5]
+* [generator-benchmarkjs-runner][6]
 
 Education
 ----------------
@@ -60,5 +68,7 @@ Languages
 
 [1]: https://github.com/skroutz/selectorablium  "Selectorablium.js"
 [2]: https://github.com/skroutz/analytics.js  "Analytics.js"
-[3]: https://github.com/billtrik/karma-fixture  "Karma Fixture"
+[3]: https://www.npmjs.com/package/karma-fixture  "Karma Fixture"
 [4]: http://www.youtube.com/watch?v=cj2rxFS0qDQ "Smelly smell that smells smelly"
+[5]: https://www.npmjs.com/package/simple-benchmarkjs-runner "Simple benchmark runner"
+[6]: https://www.npmjs.com/package/generator-benchmarkjs-runner "Yeoman generator for simple benchmark runner"
