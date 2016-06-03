@@ -9,7 +9,7 @@ Bio
 ======================
 
 
-![Bill Trikalinos](/images/billtrik.jpg) I first started working on the web dev front on 2010.
+![Bill Trikalinos](/images/bill_trikalinos.png) I first started working on the web dev front on 2010.
 It had to do with **PHP + MySQL** doing web-admin related stuff.
 I was also writing **HTML, CSS** and it was my first encounter with **Javascript** as i
 had to make some interactive plugins with voice recording and facebook API integration.
